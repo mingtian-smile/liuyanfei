@@ -10,12 +10,12 @@ require (
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/cespare/xxhash/v2 v2.2.0
 	github.com/go-kit/log v0.2.1
-	github.com/go-openapi/analysis v0.21.4
+	github.com/go-openapi/analysis v0.22.0
 	github.com/go-openapi/errors v0.21.0
-	github.com/go-openapi/loads v0.21.2
+	github.com/go-openapi/loads v0.21.5
 	github.com/go-openapi/runtime v0.26.0
-	github.com/go-openapi/spec v0.20.9
-	github.com/go-openapi/strfmt v0.21.7
+	github.com/go-openapi/spec v0.20.13
+	github.com/go-openapi/strfmt v0.21.10
 	github.com/go-openapi/swag v0.22.7
 	github.com/go-openapi/validate v0.22.1
 	github.com/gofrs/uuid v4.4.0+incompatible
@@ -57,8 +57,8 @@ require (
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/go-openapi/jsonpointer v0.19.5 // indirect
-	github.com/go-openapi/jsonreference v0.20.0 // indirect
+	github.com/go-openapi/jsonpointer v0.20.2 // indirect
+	github.com/go-openapi/jsonreference v0.20.4 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -81,7 +81,7 @@ require (
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/xhit/go-str2duration/v2 v2.1.0 // indirect
-	go.mongodb.org/mongo-driver v1.11.3 // indirect
+	go.mongodb.org/mongo-driver v1.13.1 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
 	golang.org/x/crypto v0.16.0 // indirect
